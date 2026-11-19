@@ -1,0 +1,10 @@
+{
+  "description": "Permite a ciudadanos y clubes consultar espacios deportivos en Medellín, revisar disponibilidad y solicitar reservas, mientras el personal administra solicitudes, escenarios y horarios.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
